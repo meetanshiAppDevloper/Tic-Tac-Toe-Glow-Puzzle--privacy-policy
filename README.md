@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Glow-Puzzle--privacy-policy
+# Tic-Tac-Toe-XO-Battle-Puzzle--privacy-policy
